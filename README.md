@@ -8,7 +8,7 @@ user interface as well as through the terminal.
 
 <h2>Download PDF File</h2>
 
-[SQL Injection (SQLi) Lab.pdf](https://github.com/user-attachments/files/16432176/SQL.Injection.SQLi.Lab.pdf)
+[SQL Injection (SQLi) Lab.pdf](https://github.com/user-attachments/files/16432266/SQL.Injection.SQLi.Lab.pdf)
 
 <h2>Summary</h2>
 <p align="center">
